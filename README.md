@@ -5,7 +5,7 @@
 **Your task is to Create Simple SlideShow Application using React**
 
 #### Acceptance Criteria:-
-- The Slides component takes an array of slides as a prop. Each element of this array denotes a single slide and is an object with 2 properties: string title and string text.
+- **The ```App``` component takes an array of slides as a prop**. Each element of this array denotes a single slide and is an object with 2 properties: string title and string text.
 - On application launch, the first slide must be rendered.
 - Clicking on the "Next" button shows the next slide. This button is disabled when the current slide is the last one.
 - Clicking on the "Prev" button shows the previous slide. This button is disabled when the current slide is the first one.
